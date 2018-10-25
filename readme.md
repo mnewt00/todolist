@@ -12,8 +12,6 @@ A todo list by mnewt00
 
 * **MNEWT00** - *Initial work* - [mnewt00](https://github.com/mnewt00)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
 ## License
 
 The MIT License (MIT)
